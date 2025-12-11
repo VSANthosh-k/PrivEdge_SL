@@ -1,5 +1,5 @@
 # PrivEdge_SL
-Privacy-aware, optimized Split Learning pipeline (PrivEdge-SL) —  bundle for the manuscript.
+Privacy-aware, optimized Split Learning pipeline (PrivEdge-SL) — Algorithmic configuraion  bundle for the manuscript.
 This repository contains dataset pointers, notebooks, and meta-selector dataset used to train the meta-model for selecting optimized SL models under device constraints.
 
 top-level files include source code, dataset link, Introductory paper NBAIOT Dataset.pdf, an internal README, and the meta-dataset
