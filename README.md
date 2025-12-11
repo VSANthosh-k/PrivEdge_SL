@@ -12,4 +12,4 @@ top-level files include source code, dataset link, Introductory paper NBAIOT Dat
 - This repository provides the code and supporting data necessary to reproduce the experiments in the PrivEdge-SL manuscript:
 - Train baseline and optimized model variants (pruned, quantized, TFLite) for the dataset.
 - Generate and/or use the meta-dataset and train the meta-selector that learns to choose the best model variant given device constraints 
-- Reproduce aggregate metrics (mean ± std) across repeated runs and perform simple statistical tests.
+
